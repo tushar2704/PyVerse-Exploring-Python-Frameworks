@@ -2,7 +2,7 @@
 NumPy is a Python library for numerical computing. It provides
 powerful data structures, such as n-dimensional arrays or “ndarrays”,
 and a wide range of mathematical functions for working with these
-arrays efficiently.
+arrays efficiently. 
 
 In addition to its core functionality, NumPy also provides tools for
 integrating with other scientific computing libraries in Python, such as
