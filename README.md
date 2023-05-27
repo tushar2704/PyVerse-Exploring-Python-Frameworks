@@ -1,4 +1,4 @@
-# PyVersed Exploring Python 
+# PyVerse Exploring Python 
 Welcome to PyVerse, your ultimate guide to exploring and mastering Python frameworks! This repository is designed to help you navigate the vast landscape of Python frameworks and understand their features, use cases, and best practices.
 
 ## Introduction
