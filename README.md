@@ -1,5 +1,5 @@
 # PyVerse Exploring Python Techstack 
-Welcome to PyVerse by [Tushar Aggarwal](https://www.tushar-aggarwal.com/), your ultimate guide to exploring and mastering Python frameworks! This repository is designed to help you navigate the vast landscape of Python frameworks and understand their features, use cases, and best practices..
+Welcome to PyVerse by [Tushar Aggarwal](https://www.tushar-aggarwal.com/), your ultimate guide to exploring and mastering Python frameworks! This repository is designed to help you navigate the vast landscape of Python frameworks and understand their features, use cases, and best practices...
 
 ## Introduction
 Python has emerged as one of the most popular programming languages in recent years, thanks to its simplicity, versatility, and vast ecosystem. One of the key factors contributing to Python's success is its rich collection of frameworks that cater to various domains and purposes. PyVerse aims to provide a comprehensive overview of these frameworks, empowering you to make informed decisions and leverage the right tools for your projects.
