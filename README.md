@@ -42,7 +42,7 @@ Python has emerged as one of the most popular programming languages in recent ye
  Stay tuned for updates!
 
 # Community and Support
-Join the PyVerse community to connect with fellow developers, ask questions, share your experiences, and stay updated with the latest developments
+Join the PyVerse community to connect with fellow developers, ask questions, share your experiences, and stay updated with the latest developments. Contact @ info@tushar-aggarwal.com
 
 # Additional Library & Frameworks:
 
