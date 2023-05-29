@@ -20,17 +20,8 @@ Python has emerged as one of the most popular programming languages in recent ye
  ## Getting Started
 
  To get started with PyVerse, follow these steps:
- 1. Clone the repository to your local machine using the following command:
- ```
- git clone https://github.com/your-username/PyVerse-Exploring-Python-Frameworks.git
- ```
- 2. Install the necessary dependencies by running:
- ```
- pip install -r requirements.txt
- ```
- 3. Explore the frameworks directory to discover the available Python frameworks. Each framework has its own directory containing documentation, tutorials, and example code.
- 4. Dive into the documentation and examples of the frameworks you are interested in. Experiment with the code and explore the capabilities of each framework.
- 5. If you have any questions, feedback, or suggestions, please open an issue in the repository. We'd love to hear from you!
+ 1. Explore the frameworks directory to discover the available Python frameworks. Each framework has its own directory containing documentation, tutorials, and example code.
+ 2. Dive into the documentation and examples of the frameworks you are interested in. Experiment with the code and explore the capabilities of each framework.
 
  ## Roadmap
  We have an exciting roadmap planned for PyVerse:
