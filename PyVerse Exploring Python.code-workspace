@@ -4,5 +4,7 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"jupyter.interactiveWindow.textEditor.executeSelection": true
+	}
 }
