@@ -480,7 +480,6 @@ Join the PyVerse community to connect with fellow developers, ask questions, sha
 |439|Recommender Systems|Hybrid Recommender Systems|
 |440|Recommender Systems|Knowledge-Based Recommender Systems|
 |441|Recommender Systems|Reinforcement Learning for Recommender Systems|
-|447|Model Deployment|Model Serving|
 |448|Model Deployment|Containerization|
 |449|Model Deployment|Serverless Computing|
 |450|Model Deployment|Model Monitoring|
