@@ -480,8 +480,6 @@ Join the PyVerse community to connect with fellow developers, ask questions, sha
 |439|Recommender Systems|Hybrid Recommender Systems|
 |440|Recommender Systems|Knowledge-Based Recommender Systems|
 |441|Recommender Systems|Reinforcement Learning for Recommender Systems|
-|442|Computer Vision tasks|Style Transfer|
-|443|Computer Vision tasks|Image Super-Resolution|
 |444|Computer Vision tasks|Video Object Detection|
 |445|Computer Vision tasks|Semantic Segmentation|
 |446|Computer Vision tasks|Image Captioning|
