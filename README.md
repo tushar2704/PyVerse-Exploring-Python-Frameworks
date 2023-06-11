@@ -480,7 +480,6 @@ Join the PyVerse community to connect with fellow developers, ask questions, sha
 |439|Recommender Systems|Hybrid Recommender Systems|
 |440|Recommender Systems|Knowledge-Based Recommender Systems|
 |441|Recommender Systems|Reinforcement Learning for Recommender Systems|
-|445|Computer Vision tasks|Semantic Segmentation|
 |446|Computer Vision tasks|Image Captioning|
 |447|Model Deployment|Model Serving|
 |448|Model Deployment|Containerization|
