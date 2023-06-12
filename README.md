@@ -42,7 +42,7 @@ Join the PyVerse community to connect with fellow developers, ask questions, sha
 | ------------- |:-------------|:-----|
 |1|Data Science|Pandas|
 |2|Data Science|Numpy|
-|3|DS|Seaborn|
+|3|Data Science|Seaborn|
 |4|DS|Scipy|
 |5|DS|Matplotlib|
 |6|ML|Scikit-learn|
