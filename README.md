@@ -40,7 +40,7 @@ Join the PyVerse community to connect with fellow developers, ask questions, sha
 
 | S.no.        | Used for|Lib, Framework & Tech |
 | ------------- |:-------------|:-----|
-|1|DS|Pandas|
+|1|Data Science|Pandas|
 |2|DS|Numpy|
 |3|DS|Seaborn|
 |4|DS|Scipy|
