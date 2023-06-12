@@ -41,7 +41,7 @@ Join the PyVerse community to connect with fellow developers, ask questions, sha
 | S.no.        | Used for|Lib, Framework & Tech |
 | ------------- |:-------------|:-----|
 |1|Data Science|Pandas|
-|2|DS|Numpy|
+|2|Data Science|Numpy|
 |3|DS|Seaborn|
 |4|DS|Scipy|
 |5|DS|Matplotlib|
