@@ -43,7 +43,7 @@ Join the PyVerse community to connect with fellow developers, ask questions, sha
 |1|Data Science|Pandas|
 |2|Data Science|Numpy|
 |3|Data Science|Seaborn|
-|4|DS|Scipy|
+|4|Data Science|Scipy|
 |5|DS|Matplotlib|
 |6|ML|Scikit-learn|
 |7|ML|Pytorch|
