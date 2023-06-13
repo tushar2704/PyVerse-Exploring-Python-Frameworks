@@ -46,7 +46,7 @@ Join the PyVerse community to connect with fellow developers, ask questions, sha
 |4|Data Science|Scipy|
 |5|Data Science|Matplotlib|
 |6|Machine Learning|Scikit-learn|
-|7|ML|Pytorch|
+|7|Machine Learning|Pytorch|
 |8|ML|Tensorflow|
 |9|ML|Xgboost|
 |10|ML|Lightgbm|
