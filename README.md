@@ -51,7 +51,7 @@ Join the PyVerse community to connect with fellow developers, ask questions, sha
 |9|Machine Learning|Xgboost|
 |10|Machine Learning|Lightgbm|
 |12|Machine Learning|Keras|
-|13|ML|Pycaret|
+|13|Machine Learning|Pycaret|
 |14|MLOps|Mlflow|
 |15|MLOps|Kubeflow|
 |16|MLOps|Zenml|
