@@ -50,7 +50,7 @@ Join the PyVerse community to connect with fellow developers, ask questions, sha
 |8|Machine Learning|Tensorflow|
 |9|Machine Learning|Xgboost|
 |10|Machine Learning|Lightgbm|
-|12|ML|Keras|
+|12|Machine Learning|Keras|
 |13|ML|Pycaret|
 |14|MLOps|Mlflow|
 |15|MLOps|Kubeflow|
