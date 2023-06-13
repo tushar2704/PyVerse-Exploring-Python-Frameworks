@@ -49,7 +49,7 @@ Join the PyVerse community to connect with fellow developers, ask questions, sha
 |7|Machine Learning|Pytorch|
 |8|Machine Learning|Tensorflow|
 |9|Machine Learning|Xgboost|
-|10|ML|Lightgbm|
+|10|Machine Learning|Lightgbm|
 |12|ML|Keras|
 |13|ML|Pycaret|
 |14|MLOps|Mlflow|
