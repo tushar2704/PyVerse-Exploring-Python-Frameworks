@@ -1,4 +1,6 @@
 # PyVerse Exploring Python Library & Frameworks
+<a href="https://www.buymeacoffee.com/TAggData"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=TAggData&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
 Welcome to PyVerse by [Tushar Aggarwal](https://www.tushar-aggarwal.com/), your ultimate guide to exploring and mastering Python frameworks! This repository is designed to help you navigate the vast landscape of Python frameworks and understand their features, use cases, and best practices.
 
 ## Introduction
@@ -40,18 +42,18 @@ Join the PyVerse community to connect with fellow developers, ask questions, sha
 
 | S.no.        | Used for|Lib, Framework & Tech |
 | ------------- |:-------------|:-----|
-|1|DS|Pandas|
-|2|DS|Numpy|
-|3|DS|Seaborn|
-|4|DS|Scipy|
-|5|DS|Matplotlib|
-|6|ML|Scikit-learn|
-|7|ML|Pytorch|
-|8|ML|Tensorflow|
-|9|ML|Xgboost|
-|10|ML|Lightgbm|
-|12|ML|Keras|
-|13|ML|Pycaret|
+|1|Data Science|Pandas|
+|2|Data Science|Numpy|
+|3|Data Science|Seaborn|
+|4|Data Science|Scipy|
+|5|Data Science|Matplotlib|
+|6|Machine Learning|Scikit-learn|
+|7|Machine Learning|Pytorch|
+|8|Machine Learning|Tensorflow|
+|9|Machine Learning|Xgboost|
+|10|Machine Learning|Lightgbm|
+|12|Machine Learning|Keras|
+|13|Machine Learning|Pycaret|
 |14|MLOps|Mlflow|
 |15|MLOps|Kubeflow|
 |16|MLOps|Zenml|
