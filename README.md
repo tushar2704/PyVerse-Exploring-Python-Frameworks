@@ -1,4 +1,4 @@
-# PyVerse Exploring Python Library & Frameworks 1
+# PyVerse Exploring Python Library & Frameworks 
 <a href="https://www.buymeacoffee.com/TAggData"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=TAggData&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 Welcome to PyVerse by [Tushar Aggarwal](https://www.tushar-aggarwal.com/), your ultimate guide to exploring and mastering Python frameworks! This repository is designed to help you navigate the vast landscape of Python frameworks and understand their features, use cases, and best practices.
